@@ -1,3 +1,7 @@
+# Binance FE Test
+
+<img width="310" alt="preview" src="https://user-images.githubusercontent.com/16502719/82188477-477c5800-9931-11ea-8d45-7c1f94775ef5.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
